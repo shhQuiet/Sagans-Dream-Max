@@ -1,9 +1,9 @@
 {
-	"name" : "Sagans Dream 2.0",
+	"name" : "Sagans Dream",
 	"version" : 1,
 	"creationdate" : 3736793947,
-	"modificationdate" : 3749686245,
-	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
+	"modificationdate" : 3749687217,
+	"viewrect" : [ 25.0, 114.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -12,7 +12,8 @@
 		"patchers" : 		{
 			"Sagans Dream.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel": 1
 			}
 ,
 			"delay control.maxpat" : 			{
@@ -20,12 +21,12 @@
 				"local" : 1
 			}
 ,
-			"delay line stereo.maxpat" : 			{
+			"delay line channel.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"delay line channel.maxpat" : 			{
+			"delay line stereo.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -42,11 +43,11 @@
 
 	}
 ,
-	"detailsvisible" : 0,
+	"detailsvisible" : 1,
 	"amxdtype" : 1633771873,
 	"readonly" : 0,
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0
+	"viewmode" : 1
 }
