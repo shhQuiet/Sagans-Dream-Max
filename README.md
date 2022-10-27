@@ -2,7 +2,7 @@
 
 This Max for Live effect is inspired by the Soma Cosmos Drifting Memory Station.
 
-![](screenshots.png)
+![](screenshot.png)
 ---
 # Version History
 
