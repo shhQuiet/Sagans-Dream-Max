@@ -1389,7 +1389,8 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "M4L.bal2~.maxpat",
-				"bootpath" : "C74:/patchers/m4l/Tools resources",
+				"bootpath" : "~/Dropbox/Max MSP/Sagans Dream 2.0/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
