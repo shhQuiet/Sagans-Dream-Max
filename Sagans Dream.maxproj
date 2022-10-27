@@ -2,7 +2,7 @@
 	"name" : "Sagans Dream 2.0",
 	"version" : 1,
 	"creationdate" : 3736793947,
-	"modificationdate" : 3749491755,
+	"modificationdate" : 3749686245,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,10 +10,9 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"Sagans Dream 2.maxpat" : 			{
+			"Sagans Dream.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 ,
 			"delay control.maxpat" : 			{
